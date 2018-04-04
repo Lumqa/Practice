@@ -1,6 +1,6 @@
 Android
 PlayerPath?
-F:/lumqa/Git
+F:/lumqa/Git/Dvatsatka_v3.apk
 SceneListBegin?
 Assets/Main.unity
 SceneListEnd?
@@ -182,3 +182,5 @@ d2a2bd333db22f480a8589e167314ecc Assembly-CSharp.dll:Vuforia.UserDefinedTargetBu
 7cac06ac0eaa7257b831c29e4455ce1b Assembly-CSharp.dll:Vuforia.VuforiaConfiguration
 05524b8f659e7bfe5756d1335fec24ba UnityStore.dll:UnityEngine.Store.MainThreadDispatcher
 50667894c33b478dc38ae949114bb1e8 Assembly-CSharp.dll:AppStoresSupport.AppStoreSettings
+05524b8f659e7bfe5756d1335fec24ba Assembly-CSharp.dll:.NewBehaviourScript
+471fa0eedc587b7e5402554dd0018f91 Assembly-CSharp.dll:.ClickToMove
